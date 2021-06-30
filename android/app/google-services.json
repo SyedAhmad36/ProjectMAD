@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962345101333",
+    "project_id": "fbauthentication-6b692",
+    "storage_bucket": "fbauthentication-6b692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962345101333:android:79b82909bdddfb6c01861c",
+        "android_client_info": {
+          "package_name": "com.example.fb_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962345101333-lcbnfeeh5f4d4t43p5h4d65i392j0jd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmS-zJyKNGKKbJsJ6K0x_fma-tnQC4Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962345101333-lcbnfeeh5f4d4t43p5h4d65i392j0jd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
